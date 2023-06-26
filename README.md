@@ -2,8 +2,8 @@
 A browser interface based on Gradio library for Stable Diffusion.
 
 Credits:
-https://github.com/camenduru/stable-diffusion-webui/tree/v2.1
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+<br> https://github.com/camenduru/stable-diffusion-webui/tree/v2.1
+<br> https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
